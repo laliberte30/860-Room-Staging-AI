@@ -1,0 +1,7 @@
+{
+  "name": "clayton-860-staging-ai-backend",
+  "private": true,
+  "dependencies": {
+    "@google/genai": "^1.25.0"
+  }
+}

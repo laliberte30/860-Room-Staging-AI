@@ -1,0 +1,7 @@
+{
+  "name": "Clayton 860 Staging AI",
+  "description": "An AI-powered room staging application that takes a photo of an empty room and furnishes it in various styles without altering the room's structure.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
